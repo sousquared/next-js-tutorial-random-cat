@@ -1,4 +1,4 @@
-以下のチュートリアルリポジトリ
+以下のチュートリアルリポジトリ  
 https://typescriptbook.jp/tutorials/nextjs
 
 
